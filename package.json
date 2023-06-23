@@ -9,7 +9,7 @@
     "create-react-app": "^4.0.1",
     "express": "^4.17.1",
     "mongoose": "^5.11.13",
-    "nodemon": "^2.0.7",
+    "nodemon": "^2.0.17",
     "path": "^0.12.7",
     "react-bootstrap": "^1.4.3",
     "react-router-dom": "^5.2.0",
